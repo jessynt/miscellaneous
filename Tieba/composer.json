@@ -1,0 +1,12 @@
+{
+    "name": "jessynt/tieba",
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "autoload": {
+		"psr-4": {
+			"Tieba\\": "src/"
+		}
+    },
+    "license": "WTFPL"
+}
